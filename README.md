@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-Team name: 
+Team name: KLY
 
 Members:
 Yasmin Glick - YKG5@pitt.edu
